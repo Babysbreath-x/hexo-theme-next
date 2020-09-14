@@ -7,9 +7,7 @@ categories: 随笔
 tags: [慧心, 邂逅]
 ---
 
-<img src="../image/不倒翁.jpeg" width="350" height="" alt="不倒翁" align=center>
-
-
+<img src="https://i.loli.net/2020/09/14/jpUNS8q5dYPXhxG.jpg" width="350" height="" alt="不倒翁" align=center>
 
 谁曾想到，当我们溯流而上，有太多太多的、最初的怦然心动，都显得那么朦胧或自然，唯有这张图片，还真是人生中唯数不多的彩蛋！
 
