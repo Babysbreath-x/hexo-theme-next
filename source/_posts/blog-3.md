@@ -1,11 +1,10 @@
 ---
-title: 早起
+title: 早 起
 date: 2020-8-17 20:20:46
 updated:
 tags: 
   - 木心
 categories: 随笔
-keywords: '随笔'
 ---
 
 早起的鸟儿有虫吃，有的不光是晨曦下的虫儿，还有竞争，还有责任，以及满足感~

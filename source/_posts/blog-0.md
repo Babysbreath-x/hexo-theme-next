@@ -1,5 +1,5 @@
 ---
-title: 初心
+title: 初 心
 urlname: sprout
 date: 2020-08-2 19:50:42
 updated: 2020-08-4 22:11:32

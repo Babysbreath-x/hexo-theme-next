@@ -1,5 +1,5 @@
 ---
-title: 萌芽
+title: 萌 芽
 urlname: sprout
 date: 2020-08-6 17:51:12
 updated: 2020-09-14 17:51:12
