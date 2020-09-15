@@ -123,3 +123,10 @@ search:
   field: post
   format: html
   limit: 10000
+
+feed: # RSS订阅插件
+  type: atom
+  path: atom.xml
+  limit: 0
+
+plugins: hexo-generate-feed
